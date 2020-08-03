@@ -22,3 +22,5 @@
 # Test artifacts
 .cypress/screenshots
 .cypress/videos
+
+.vscode\snipsnap.code-snippets
